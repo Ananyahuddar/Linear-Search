@@ -23,20 +23,3 @@ ii. If no, print "Target value found at index: " followed by the value of 'resul
 
 ![image](https://user-images.githubusercontent.com/125941580/234327045-da560118-b992-4591-b315-162b0d0727d1.png)
 
-# Working of Linear search
-Now, let's see the working of the linear search Algorithm.
-
-To understand the working of linear search algorithm, let's take an unsorted array. It will be easy to understand the working of linear search with an example.
-
-Let the elements of array are -
-
-Linear Search Algorithm
-Let the element to be searched is K = 41
-
-Now, start from the first element and compare K with each element of the array.
-
-Linear Search Algorithm
-The value of K, i.e., 41, is not matched with the first element of the array. So, move to the next element. And follow the same process until the respective element is found.
-
-Linear Search Algorithm
-Now, the element to be searched is found. So algorithm will return the index of the element matched.
